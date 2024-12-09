@@ -36,14 +36,15 @@
 		<meta property="term" refines="#subject-2">Unknown</meta>
 		<meta property="se:subject">Children’s</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A young girl’s emotional hurt requires time and love to heal.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;As the only child of a widowed and wealthy father, Cornelli is accustomed to having her own way. When business calls her father away one summer, Cornelli is cared for by her father’s cousin and her friend. Her father’s assumption is that these refined ladies will instil some more elegant manners in his rambunctious daughter. It all goes wrong, as Cornelli suffers stifling and injustice under the new regime. Things begin to change, however, when a boy her age comes to stay in her alpine town for a period of recuperation.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/johanna-spyri"&gt;Johanna Spyri&lt;/a&gt; is best known for her children’s classic, &lt;a href="https://standardebooks.org/ebooks/johanna-spyri/heidi/elisabeth-p-stork"&gt;&lt;i&gt;Heidi&lt;/i&gt;&lt;/a&gt;. But she wrote many other works besides, mostly for children, and mostly set in idyllic Swiss landscapes. &lt;i&gt;Cornelli&lt;/i&gt; shares these features, and brings also Spyri’s characteristic emotional depth as her young heroine discovers that suffering can be the path to deeper love and fulfilment.&lt;/p&gt;
+			&lt;p&gt;Of the several English versions available, the Standard Ebooks edition uses Elisabeth P. Stork’s translation.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/6380</dc:source>
 		<dc:source>https://archive.org/details/cornellistoryofs00spyr</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Cornelli</meta>
@@ -59,10 +60,10 @@
 		<meta property="se:name.person.full-name" refines="#translator">Elisabeth Pausinger Stork</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/no99015053</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Henry Tonks</dc:contributor>
+		<meta property="file-as" refines="#artist">Tonks, Henry</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Henry_Tonks</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/nr91034888.html</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Juliet Sutherland</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Sutherland, Juliet</meta>
